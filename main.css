@@ -1,0 +1,231 @@
+body {
+    background: linear-gradient(to bottom, rgb(45, 44, 44), #000000);
+    height: 140vh;
+    margin: auto;
+}
+.shapes{
+    height: 900px;
+    width: 734px;
+    background-color: #131313;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+.googleicon{
+    width: 30px;
+    height: 30px;
+}
+.facebook{
+    width: 35px;
+    height: 35px;
+}
+.apple{
+    width: 35px;
+    height: 35px;
+}
+.telephone{
+    width: 35px;
+    height: 35px;
+}
+.login{
+    background-color: #131313;
+    color: white;
+    width: 300px;
+    margin: 0px 0px 8px;
+    padding: 7px 31px;
+    border-radius: 200px;
+    border: 2px solid rgb(106, 106, 106);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: medium;
+    font-family:sans-serif;
+}
+.login:hover{
+    color: black;
+    background-color: #fff;
+}
+.loginn{
+    background-color: #131313;
+    color: white;
+    width: 300px;
+    margin: 0px 0px 8px;
+    padding: 7px 31px;
+    border-radius: 200px;
+    border: 2px solid rgb(106, 106, 106);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: medium;
+    font-family:sans-serif;
+}
+.loginn:hover{
+    color: black;
+    background-color: #fff;
+}
+.loginnn{
+    background-color: #131313;
+    color: white;
+    width: 300px;
+    margin: 0px 0px 8px;
+    padding: 7px 31px;
+    border-radius: 200px;
+    border: 2px solid rgb(106, 106, 106);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: medium;
+    font-family:sans-serif;
+}
+.loginnn:hover{
+    color: black;
+    background-color: #fff;
+}
+.loginnnn{
+    background-color: #131313;
+    color: white;
+    width: 300px;
+    padding: 5px 20px;
+    border-radius: 200px;
+    border: 2px solid rgb(106, 106, 106);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: medium;
+    font-family:sans-serif;
+}
+.loginnnn:hover{
+    color: black;
+    background-color: #fff;
+}
+.login-1 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-4 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shapess{
+    background-color:  rgb(53, 52, 52);
+    height: 0.7px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.email{
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    font-family:sans-serif;
+    align-items: center;
+    padding-block-end: 8px ;
+    margin-left: 25%;
+}
+.inp-email{
+    width: 324px;
+    height: 48px;
+    margin-left: 25%;
+    font-family: sans-serif;
+    background-color: #131313;
+    color: #fff;
+    border: 2px solid rgb(106, 106, 106);
+}
+.password{
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    font-family:sans-serif;
+    align-items: center;
+    padding-block-end: 8px ;
+    margin-left: 25%;
+}
+.inp-password{
+    width: 324px;
+    height: 48px;
+    margin-left: 25%;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #131313;
+    border: 2px solid rgb(106, 106, 106);
+}
+.loginbutton:hover{
+    background-color: #1ed760;
+}
+.loginbutton{
+    background-color: #1ed760;
+    width: 324px;
+    height: 48px;
+    margin: 0px 0px 8px;
+    padding: 8px 32px;
+    border-radius: 200px;
+    font-style: bold;
+    font-weight: 700;
+    font-size: medium;
+    font-family:sans-serif;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+.forget{
+    font-family: sans-serif;
+    color: #fff;
+    margin-left: 35%;
+    font-size: medium;
+    font-weight: 400;
+}
+.shapesss{
+    background-color:  rgb(53, 52, 52);
+    height: 0.7px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.register{
+    color: #A7A7A7;
+    align-items: center;
+    margin-left: 30%;
+    display: flex;
+    gap: 20px;
+}
+.reg-1{
+    color: #1ed760;
+}
+.login-link{
+    text-decoration: none;
+}
+.login-link2{
+    text-decoration: none;
+}
+.login-link3{
+    text-decoration: none;
+}
+.login-link4{
+    text-decoration: none;
+}
+
